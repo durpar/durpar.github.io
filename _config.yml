@@ -97,10 +97,10 @@ service-worker: true
 friends: [
     {
         title: "WP",
-        href: "https://wangpei.ink"
+        href: "https://durpar.ltd"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "https://durpar.ltd"
     },{
         title: "Apple",
         href: "https://apple.com"
